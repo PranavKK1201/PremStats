@@ -23,5 +23,6 @@ I then included an easy to understand bar graph of the top goalscorers from the 
     Finally, a line graph of the cumulative goals scored to the number of games is produced(cumulative_goals.png). This involved making a list of each goals scored then cumulatively adding then while associating then with the game no. on the x axis. This analysis is fairly common in professional analysis of soccer, to ascertain the progress of a team. The slope at any period time is proportional to the performance of the team.
 
     Once I was done with this, I had to spend a considerable amount of time to go over little bugs, make the charts better looking and adding comments so it's easier for the readier.
+I also accurately labelled all the variables so it's easy to understand what they contain.
 
-     I also accurately labelled all the variables so it's easy to understand what they contain.
+Finally, as an extra challenge I converted the entire code into Object Oriented Programming form (oop.py).It performs exactly the same task but in a more creative and efficient manner.
